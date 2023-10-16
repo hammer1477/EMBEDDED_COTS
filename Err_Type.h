@@ -11,7 +11,7 @@
 #define OK 		 	0U
 #define NOK 	 	1U
 #define NULL_PTR 	2U
-#define TIMEOUTERROR 	3u
+
 
 
 #endif /* ERR_TYPE_H_ */
